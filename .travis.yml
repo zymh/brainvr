@@ -27,4 +27,5 @@ script:
 
 after_success:
   - cp .travis.yml public # all branches need this file
+  - echo "brainvr.cz" > public/CNAME
   - bash deploy.sh # run the deploy script
