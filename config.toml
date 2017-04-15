@@ -1,6 +1,6 @@
 baseurl = "https://nudz.github.io/brainvr/"
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+title = "Neurokognice a virtuální realita"
+copyright = "&copy; 2016 Lukáš hejtmy Hejtmánek"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
