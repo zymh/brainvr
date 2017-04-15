@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://nudz.github.io/brainvr/cs/sitemap.xml</loc>
-		
-	   	<lastmod>2017-01-01T00:00:00+00:00</lastmod>
+	   	<loc>brainvr.cz/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://nudz.github.io/brainvr/en/sitemap.xml</loc>
+	   	<loc>brainvr.cz/cs/sitemap.xml</loc>
+		
+	   	<lastmod>2017-01-01T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content tagged as &#39;Academic&#39; on Neurokognice a virtuální realita</title>
-    <link>https://nudz.github.io/brainvr/tags/academic/</link>
+    <link>brainvr.cz/tags/academic/</link>
     <description>Recent content in Content tagged as &#39;Academic&#39; on Neurokognice a virtuální realita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/brainvr/tags/academic/" rel="self" type="application/rss+xml" />
+    <atom:link href="brainvr.cz/tags/academic/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

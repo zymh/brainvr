@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Neurokognice a virtuální realita</title>
-    <link>https://nudz.github.io/brainvr/tags/</link>
+    <link>brainvr.cz/tags/</link>
     <description>Recent content in Tags on Neurokognice a virtuální realita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/brainvr/tags/" rel="self" type="application/rss+xml" />
+    <atom:link href="brainvr.cz/tags/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://nudz.github.io/brainvr/tags/academic/</link>
+      <link>brainvr.cz/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://nudz.github.io/brainvr/tags/academic/</guid>
+      <guid>brainvr.cz/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://nudz.github.io/brainvr/tags/deep-learning/</link>
+      <link>brainvr.cz/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://nudz.github.io/brainvr/tags/deep-learning/</guid>
+      <guid>brainvr.cz/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://nudz.github.io/brainvr/tags/demo/</link>
+      <link>brainvr.cz/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://nudz.github.io/brainvr/tags/demo/</guid>
+      <guid>brainvr.cz/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmer</title>
-      <link>https://nudz.github.io/brainvr/tags/programmer/</link>
+      <link>brainvr.cz/tags/programmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nudz.github.io/brainvr/tags/programmer/</guid>
+      <guid>brainvr.cz/tags/programmer/</guid>
       <description></description>
     </item>
     

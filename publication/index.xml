@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Neurokognice a virtuální realita</title>
-    <link>https://nudz.github.io/brainvr/publication/</link>
+    <link>brainvr.cz/publication/</link>
     <description>Recent content in Publications on Neurokognice a virtuální realita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/brainvr/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="brainvr.cz/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://nudz.github.io/brainvr/publication/person-re-identification/</link>
+      <link>brainvr.cz/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://nudz.github.io/brainvr/publication/person-re-identification/</guid>
+      <guid>brainvr.cz/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://nudz.github.io/brainvr/publication/clothing-search/</link>
+      <link>brainvr.cz/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://nudz.github.io/brainvr/publication/clothing-search/</guid>
+      <guid>brainvr.cz/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
