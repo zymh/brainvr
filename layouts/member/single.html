@@ -2,7 +2,6 @@
 {{ partial "navbar.html" . }}
 
 <article class="article article-member" itemscope itemtype="http://schema.org/Article">
-
   {{ if .Params.header.image }}
   <div class="article-header">
     <img src="{{ "/img/" | relURL }}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
@@ -46,6 +45,7 @@
       </div>
       {{ end }}
     </div>
+    {{ partial "social_profile.html" . }}
   </div>
 </article>
 
