@@ -10,7 +10,7 @@ subtitle = ""
 widget = "member"
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
 # Filter toolbar.
 # Add or remove as many filters (`[[filter]]` instances) as you like.
