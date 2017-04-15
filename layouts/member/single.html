@@ -15,11 +15,37 @@
       <h1 itemprop="name">{{ .Params.fullName }}</h1>
       <span class="pub-authors" itemprop="author">&nbsp;</span>
     </div>
-
-    <div class="article-style" itemprop="articleBody">
-      {{ .Content }}
+    <div class="row">
+      <div class="article-style" itemprop="articleBody">
+        {{ .Content }}
+      </div>
     </div>
-
+    <div class = "row">
+      <div class="col-sm-7">
+        <h3>{{ i18n "education" | markdownify }}</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .Params.education }}
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">{{ .degree }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ with .Params.interests }}
+      <div class = "col-sm-5">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range .interests }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
   </div>
 </article>
 
