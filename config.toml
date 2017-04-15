@@ -174,10 +174,14 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+name = "Team"
+url = "#members"
+weight = 6
+
 [[menu.main]]
   name = "Kontakt"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
