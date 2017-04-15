@@ -27,16 +27,40 @@ image = "members/banners/hejtmy.jpg"
 caption = "My caption :smile:"
 
 [[education]]
-    degree = "Magistr z Psychologie"
-    institution = "Karlova univerzita v Praze"
+    degree = "Výměnný pobyt"
+    institution = "McGill University, CA"
+    year = 2014
+
+[[education]]
+    degree = "Magistr Psychologie"
+    institution = "Univerzita Karlova v Praze, ČR"
     year = 2015
+
+[[education]]
+    degree = "Fulbright výzkumná stáž"
+    institution = "UC Davis, US"
+    year = "2017-2018"
 
 [interests]
   interests = [
       "Paměť",
       "Navigace",
-      "Hry v remediaci duševních poruch"
+      "Hry v remediaci duševních poruch",
+      "Hry obecně :)"
   ]
+
+[[social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:hejtmy@gmail.com"
+
+[[social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/hejtmy"
+
 +++
 
-Blablablaba
+Ve skupině jsem začal pracovat v roce 2015. Na počátku jsem byl jeden z programátorů rozsáhlé simulace virtuálního města, ve kterém jsme testovali velkou skupinu dobrovolníků po dobu dvou měsíců. Postupě mé povinnosti přešly z programování her k programování analý behaviorálních dat, eyetrackeru a plánování nových projektů, které se v týmu řeší. 
+
+V týmu nyní funguji jako neplacená technická podopora a ten "týpek", co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného. 
