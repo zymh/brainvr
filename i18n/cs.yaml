@@ -1,0 +1,100 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+# Buttons
+
+- id: btn_details
+  translation: Detaily
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_slides
+  translation: Slides
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Code
+
+- id: btn_dataset
+  translation: Dataset
+
+- id: btn_project
+  translation: Projekt
+
+# About widget
+
+- id: interests
+  translation: Zájmy
+
+- id: education
+  translation: Vzdělání
+
+# Publications widget
+
+- id: more_publications
+  translation: Další publikace
+
+# Posts widget
+
+- id: continue_reading
+  translation: Číst dále
+
+- id: more_posts
+  translation: Více článků
+
+# Talks widget
+
+- id: more_talks
+  translation: More Talks
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Abstrakt
+
+- id: publication
+  translation: Publikace
+
+- id: publication_type
+  translation: Kategorie
+
+- id: date
+  translation: Datum
+
+- id: links
+  translation: Odkazy
+
+- id: event
+  translation: Event
+
+- id: location
+  translation: Location
+
+# Filtering
+
+- id: filter_by_type
+  translation: Filter by type
+
+- id: filter_all
+  translation: All
+
+# Project details
+
+- id: open_project_site
+  translation: Go to Project Site
+
+# Default node titles
+
+- id: posts
+  translation: Posts
+
+- id: publications
+  translation: Publications
+
+- id: talks
+  translation: Talks
