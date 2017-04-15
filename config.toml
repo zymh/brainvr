@@ -19,16 +19,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Neurokognice a virtuální realita"
+  #role = "Oddělení VP3"
+  organization = "Národní ústav duševního zdraví"
   organization_url = ""
   avatar = "portrait.jpg"
   email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "Topolová, Klecany"
+  office_hours = ""
   phone = "888 888 88 88"
-  skype = "echo123"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -154,27 +154,28 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Publikace"
   url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Články"
   url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Projekty"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Výuka"
   url = "#teaching"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+[[menu.main]]
+  name = "Kontakt"
   url = "#contact"
   weight = 6
 
