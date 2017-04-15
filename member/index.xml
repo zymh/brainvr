@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on Neurokognice a virtuální realita</title>
-    <link>brainvr.cz/member/</link>
+    <link>http://brainvr.cz/member/</link>
     <description>Recent content in Members on Neurokognice a virtuální realita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <atom:link href="brainvr.cz/member/" rel="self" type="application/rss+xml" />
+    <atom:link href="/member/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>brainvr.cz/member/hejtmy/</link>
+      <link>http://brainvr.cz/member/hejtmy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/member/hejtmy/</guid>
+      <guid>http://brainvr.cz/member/hejtmy/</guid>
       <description>&lt;p&gt;Ve skupině jsem začal pracovat v roce 2015. Na počátku jsem byl jeden z programátorů rozsáhlé simulace virtuálního města, ve kterém jsme testovali velkou skupinu dobrovolníků po dobu dvou měsíců. Postupě mé povinnosti přešly z programování her k programování analý behaviorálních dat, eyetrackeru a plánování nových projektů, které se v týmu řeší.&lt;/p&gt;
 
 &lt;p&gt;V týmu nyní funguji jako neplacená technická podopora a ten &amp;ldquo;týpek&amp;rdquo;, co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného.&lt;/p&gt;

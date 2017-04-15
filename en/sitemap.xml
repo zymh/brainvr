@@ -4,7 +4,7 @@
     
     
     <url>
-      <loc>brainvr.cz/en/categories/</loc>
+      <loc>http://brainvr.cz/en/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -12,14 +12,14 @@
     
     
     <url>
-      <loc>brainvr.cz/en/member/hejtmy/</loc>
+      <loc>http://brainvr.cz/en/member/hejtmy/</loc>
     </url>
     
   
     
     
     <url>
-      <loc>brainvr.cz/en/member/</loc>
+      <loc>http://brainvr.cz/en/member/</loc>
       <priority>0</priority>
     </url>
     
@@ -27,7 +27,7 @@
     
     
     <url>
-      <loc>brainvr.cz/en/</loc>
+      <loc>http://brainvr.cz/en/</loc>
       <priority>0</priority>
     </url>
     
@@ -35,7 +35,7 @@
     
     
     <url>
-      <loc>brainvr.cz/en/tags/programmer/</loc>
+      <loc>http://brainvr.cz/en/tags/programmer/</loc>
       <priority>0</priority>
     </url>
     
@@ -43,7 +43,7 @@
     
     
     <url>
-      <loc>brainvr.cz/en/publication_types/</loc>
+      <loc>http://brainvr.cz/en/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -51,7 +51,7 @@
     
     
     <url>
-      <loc>brainvr.cz/en/tags/</loc>
+      <loc>http://brainvr.cz/en/tags/</loc>
       <priority>0</priority>
     </url>
     

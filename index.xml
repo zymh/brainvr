@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neurokognice a virtuální realita on Neurokognice a virtuální realita</title>
-    <link>brainvr.cz/</link>
+    <link>http://brainvr.cz/</link>
     <description>Recent content in Neurokognice a virtuální realita on Neurokognice a virtuální realita</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="brainvr.cz/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Talk</title>
-      <link>brainvr.cz/talk/example-talk/</link>
+      <link>http://brainvr.cz/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/talk/example-talk/</guid>
+      <guid>http://brainvr.cz/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>brainvr.cz/project/deep-learning/</link>
+      <link>http://brainvr.cz/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/project/deep-learning/</guid>
+      <guid>http://brainvr.cz/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -40,39 +40,39 @@
     
     <item>
       <title>External Project</title>
-      <link>brainvr.cz/project/example-external-project/</link>
+      <link>http://brainvr.cz/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/project/example-external-project/</guid>
+      <guid>http://brainvr.cz/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>brainvr.cz/publication/person-re-identification/</link>
+      <link>http://brainvr.cz/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/publication/person-re-identification/</guid>
+      <guid>http://brainvr.cz/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>brainvr.cz/publication/clothing-search/</link>
+      <link>http://brainvr.cz/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/publication/clothing-search/</guid>
+      <guid>http://brainvr.cz/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>brainvr.cz/member/hejtmy/</link>
+      <link>http://brainvr.cz/member/hejtmy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>brainvr.cz/member/hejtmy/</guid>
+      <guid>http://brainvr.cz/member/hejtmy/</guid>
       <description>&lt;p&gt;Ve skupině jsem začal pracovat v roce 2015. Na počátku jsem byl jeden z programátorů rozsáhlé simulace virtuálního města, ve kterém jsme testovali velkou skupinu dobrovolníků po dobu dvou měsíců. Postupě mé povinnosti přešly z programování her k programování analý behaviorálních dat, eyetrackeru a plánování nových projektů, které se v týmu řeší.&lt;/p&gt;
 
 &lt;p&gt;V týmu nyní funguji jako neplacená technická podopora a ten &amp;ldquo;týpek&amp;rdquo;, co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného.&lt;/p&gt;
