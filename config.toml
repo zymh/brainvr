@@ -12,7 +12,7 @@ disqusShortname = ""
 googleAnalytics = "UA-93051100-2"
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "cs"
 defaultContentLanguageInSubdir = false
 
 [blackfriday]
@@ -128,11 +128,6 @@ defaultContentLanguageInSubdir = false
     link = "mailto:test@example.org"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
@@ -140,7 +135,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/nudz"
 
 
 # Navigation Links
@@ -149,24 +144,24 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
+  name = "O nás"
   url = "#about"
   weight = 1
 
 [[menu.main]]
   name = "Publikace"
   url = "#publications_selected"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   name = "Články"
   url = "#posts"
-  weight = 3
+  weight = 6
 
 [[menu.main]]
   name = "Projekty"
   url = "#projects"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
   name = "Výuka"
@@ -174,9 +169,9 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-name = "Team"
+name = "Tým"
 url = "#members"
-weight = 6
+weight = 3
 
 [[menu.main]]
   name = "Kontakt"
@@ -193,5 +188,8 @@ weight = 6
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
+[languages.cs]
+  languageCode = "cs-cz"
+
 [languages.en]
   languageCode = "en-us"
