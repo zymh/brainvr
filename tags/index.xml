@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>http://brainvr.cz/tags/deep-learning/</link>
+      <title>Eyetracker</title>
+      <link>http://brainvr.cz/tags/eyetracker/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/tags/deep-learning/</guid>
+      <guid>http://brainvr.cz/tags/eyetracker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>http://brainvr.cz/tags/demo/</link>
+      <title>Fmri</title>
+      <link>http://brainvr.cz/tags/fmri/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/tags/demo/</guid>
+      <guid>http://brainvr.cz/tags/fmri/</guid>
       <description></description>
     </item>
     
@@ -44,6 +44,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/tags/programmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vr</title>
+      <link>http://brainvr.cz/tags/vr/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/tags/vr/</guid>
       <description></description>
     </item>
     

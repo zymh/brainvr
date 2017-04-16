@@ -44,7 +44,7 @@
     
     
     <url>
-      <loc>http://brainvr.cz/project/deep-learning/</loc>
+      <loc>http://brainvr.cz/project/hcenat-vr/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,15 +52,7 @@
     
     
     <url>
-      <loc>http://brainvr.cz/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>http://brainvr.cz/publication/person-re-identification/</loc>
+      <loc>http://brainvr.cz/publication/2017/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +60,7 @@
     
     
     <url>
-      <loc>http://brainvr.cz/publication/clothing-search/</loc>
+      <loc>http://brainvr.cz/publication/2017/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -109,7 +101,7 @@
     
     
     <url>
-      <loc>http://brainvr.cz/tags/deep-learning/</loc>
+      <loc>http://brainvr.cz/tags/eyetracker/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -118,7 +110,7 @@
     
     
     <url>
-      <loc>http://brainvr.cz/tags/demo/</loc>
+      <loc>http://brainvr.cz/tags/fmri/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,6 +164,15 @@
     <url>
       <loc>http://brainvr.cz/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://brainvr.cz/tags/vr/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
