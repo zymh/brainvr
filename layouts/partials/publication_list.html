@@ -2,8 +2,6 @@
     <div class="col-xs-12 col-md-12">
         <ul class="fa-ul">
             {{ range .Params.publications.links}}
-            {{ $link :=  (print "publications" .) }}
-            {{< relref $link >}}
             {{ end }}
         </ul>
     </div>
