@@ -24,7 +24,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "members/banners/hejtmy.jpg"
-caption = "My caption :smile:"
+caption = "My table on a busy day :smile:"
 
 [[education]]
     degree = "Výměnný pobyt"
