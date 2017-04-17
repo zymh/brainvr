@@ -9,11 +9,10 @@ image_preview = ""
 math = true
 
 publication_types = ["1"]
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In **, IEEE."
+publication_short = "In **"
 selected = true
 
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_pdf_local = "2017/emt-poster-1.pdf"
 
 # Optional featured image (relative to `static/img/` folder).
