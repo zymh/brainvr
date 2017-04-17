@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title></title>
+      <link>http://brainvr.cz/member/ivana/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/ivana/</guid>
+      <description>&lt;p&gt;V těchto měsících dokončuju magisterské studium ve specializaci neurobiologie na Přírodovědecké fakultě Univerzity Karlovy v Praze. V Národním ústavu duševního zdraví jsem stážistkou ve výzkumném programu Aplikované neurovědy a zobrazení mozku. V experimentální skupině Neurokognice a virtuální realita spolupracuju ve výzkumných projektech a ve spojení s funkční magnetickou rezonancí se zabývám především neurobiologickými korelátmi deklarativní paměti. Zajímá mě autobiografická a epizodická paměť a její vývoj u dětí i dospělých.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>http://brainvr.cz/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -22,10 +32,10 @@
     
     <item>
       <title></title>
-      <link>http://brainvr.cz/member/sahula/</link>
+      <link>http://brainvr.cz/member/vaclav/</link>
       <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/member/sahula/</guid>
+      <guid>http://brainvr.cz/member/vaclav/</guid>
       <description>&lt;p&gt;Václav Sahula je game designer ve společnosti Dreadlocks a studentem oboru Nová media na Univerzitě Karlově v Praze. V rámci Národního ústavu duševního zdraví se podílí na vývoji úloh ve virtuální realitě jako Unity developer.&lt;/p&gt;
 </description>
     </item>
@@ -50,20 +60,20 @@
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://brainvr.cz/publication/2017/person-re-identification/</link>
+      <link>http://brainvr.cz/publication/2017/_person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/publication/2017/person-re-identification/</guid>
+      <guid>http://brainvr.cz/publication/2017/_person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://brainvr.cz/member/francova/</link>
+      <link>http://brainvr.cz/member/anna/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/member/francova/</guid>
+      <guid>http://brainvr.cz/member/anna/</guid>
       <description>&lt;p&gt;Se skupinou VP3 jsem začala spolupracovat v únoru 2016. Náplní mé práce je od té doby především
 psychologické testování dobrovolníků i pacientů, základní analýza dat a zpracovávání zpráv z vyšetření.
 Získaná data momentálně využívám i pro svou diplomovou práci, v které se zabývám kognitivními
@@ -93,11 +103,11 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://brainvr.cz/publication/2017/clothing-search/</link>
+      <title>Episodic-like memory tested in virtual environment</title>
+      <link>http://brainvr.cz/publication/2017/emt-1/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://brainvr.cz/publication/2017/clothing-search/</guid>
+      <guid>http://brainvr.cz/publication/2017/emt-1/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
