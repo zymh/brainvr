@@ -20,10 +20,11 @@
       </div>
     </div>
     <div class = "row">
+      {{ with .Params.education }}
       <div class="col-sm-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
-          {{ range .Params.education }}
+          {{ range . }}
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
@@ -34,6 +35,7 @@
           {{ end }}
         </ul>
       </div>
+      {{ end }}
       {{ with .Params.interests }}
       <div class = "col-sm-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
@@ -48,10 +50,8 @@
     {{ partial "social_profile.html" . }}
   </div>
 </article>
-
 <div class="container">
   {{ partial "section_pager.html" . }}
 </div>
-
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}

@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-since = "2016-04-27"
+date = "2015-02-10"
 
 # Project title.
 fullName = "Lukáš Hejtmánek"
@@ -9,7 +9,7 @@ fullName = "Lukáš Hejtmánek"
 summary = "Psycholog, programátor, designér, hračička."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "members/thumbs/Lukas.jpg"
+image_preview = "members/thumbs/hejtmy.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
