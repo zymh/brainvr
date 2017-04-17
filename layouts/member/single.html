@@ -1,14 +1,17 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+<!-- BANNER -->
 <article class="article article-member" itemscope itemtype="http://schema.org/Article">
-  {{ if .Params.header.image }}
   <div class="article-header">
+  {{ if (.Params.header.image) and (not .Params.header.image "")}}
     <img src="{{ "/img/" | relURL }}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
     {{ with .Params.header.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
-  </div>
+  {{else}}
+    <img src="{{ "/img/members/banners/default.jpg"}}/{{ .Params.header.image }}" class="article-banner" itemprop="image">
   {{end}}
-
+  </div>
+<!-- Content -->
   <div class="article-container">
     <div class="pub-title">
       <h1 itemprop="name">{{ .Params.fullName }}</h1>
