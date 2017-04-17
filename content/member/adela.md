@@ -9,7 +9,7 @@ fullName = "Adéla Plechatá"
 summary = "Psycholog, neurovědec."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "members/thumbs/Adela.jpg"
+image_preview = "members/thumbs/adela.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
