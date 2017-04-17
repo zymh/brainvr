@@ -24,8 +24,8 @@ image = "projects/banners/HCENAT-banner.jpg"
 caption = ""
 
 [publications]
-links = ["2017/clothing-search",
-        "2017/clothing-search"]
+#links = ["publication/2017/clothing-search.md",
+#        "publication/2017/clothing-search.md"]
 
 +++
 
