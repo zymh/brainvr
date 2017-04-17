@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title></title>
+      <link>http://brainvr.cz/member/vasek/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/vasek/</guid>
+      <description>&lt;p&gt;Václav Sahula je game designer ve společnosti Dreadlocks a studentem oboru Nová media na Univerzitě Karlově v Praze. V rámci Národního ústavu duševního zdraví se podílí na vývoji úloh ve virtuální realitě jako Unity developer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>HCENAT</title>
       <link>http://brainvr.cz/project/hcenat-vr/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -49,19 +59,9 @@
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>http://brainvr.cz/publication/2017/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/publication/2017/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://brainvr.cz/member/hejtmy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/member/hejtmy/</guid>
       <description>&lt;p&gt;Ve skupině jsem začal pracovat v roce 2015. I přes svou psychologickou průpravu jsem začal fungovat jako jeden z programátorů rozsáhlé simulace virtuálního města. Tvorba zabrala takřka rok a ve městě jsme posléze několik měsíců sbírali data od desítek doprovolníků. Mé povinnosti přešly z programování experimentů k programování analýz behaviorálních dat, eyetrackeru a plánování nových projektů.&lt;/p&gt;
@@ -69,6 +69,16 @@
 &lt;p&gt;V týmu nyní funguji jako neplacená technická podopora, programátor včeho od webů po fMRI synchronizace a ten &amp;ldquo;týpek&amp;rdquo;, co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného.&lt;/p&gt;
 
 &lt;p&gt;Krom programování v Národním ústavu duševního zdraví pracuji na svém PhD v Akademii věd a po večerech vyučuji psychologii na střední škole.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>http://brainvr.cz/publication/2017/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/publication/2017/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
