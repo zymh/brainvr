@@ -7,33 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <copyright>&amp;copy; 2016 Lukáš hejtmy Hejtmánek</copyright>
-    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/member/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://brainvr.cz/member/ivana/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/member/ivana/</guid>
-      <description>&lt;p&gt;V těchto měsících dokončuju magisterské studium ve specializaci neurobiologie na Přírodovědecké fakultě Univerzity Karlovy v Praze. V Národním ústavu duševního zdraví jsem stážistkou ve výzkumném programu Aplikované neurovědy a zobrazení mozku. V experimentální skupině Neurokognice a virtuální realita spolupracuju ve výzkumných projektech a ve spojení s funkční magnetickou rezonancí se zabývám především neurobiologickými korelátmi deklarativní paměti. Zajímá mě autobiografická a epizodická paměť a její vývoj u dětí i dospělých.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://brainvr.cz/member/vaclav/</link>
-      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/member/vaclav/</guid>
-      <description>&lt;p&gt;Václav Sahula je game designer ve společnosti Dreadlocks a studentem oboru Nová media na Univerzitě Karlově v Praze. V rámci Národního ústavu duševního zdraví se podílí na vývoji úloh ve virtuální realitě jako Unity developer.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://brainvr.cz/member/anna/</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/member/anna/</guid>
       <description>&lt;p&gt;Se skupinou VP3 jsem začala spolupracovat v únoru 2016. Náplní mé práce je od té doby především
@@ -52,6 +32,40 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>http://brainvr.cz/member/vaclav/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/vaclav/</guid>
+      <description>&lt;p&gt;Václav Sahula je game designer ve společnosti Dreadlocks a studentem oboru Nová media na Univerzitě Karlově v Praze. V rámci Národního ústavu duševního zdraví se podílí na vývoji úloh ve virtuální realitě jako Unity developer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/adela/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/adela/</guid>
+      <description>&lt;p&gt;Do skupiny jsem se zapojila v srpnu roku 2016. Mým hlavním zájmem bylo vytvoření ekologicky validní úlohy ve virtuální realitě určené k tréninku kognitivního deficitu u pacientů se schizofrenií. Za pomoci Václava Sahuly a dalších členů týmu byla vytvořena simulace nákupu ve virtuálním supermarketu. Následovaly dvě pilotní studie, ve kterých jsem úlohu testovala u zdravých dobrovolníků v její diagnostické obdobě.&lt;/p&gt;
+
+&lt;p&gt;V současné chvíli testuji úlohu u pacientů se schizofrenií, a to jak v její diagnostické, tak remediační variantě. Data budu dále porovnávat s výsledky srovnávací skupiny zdravých dobrovolníků.&lt;/p&gt;
+
+&lt;p&gt;Nyní je mým největším zájmem získat data od co nejvyššího počtu pacientů a následnou analýzou završit svou diplomovou práci. V Národním ústavu duševního zdraví bych se ráda dále věnovala kognici a virtuální realitě v rámci PhD studia. Kromě virtuální reality se věnuji psychometrii a tvorbě osobnostních dotazníků a výkonových testů.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/ivana/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/ivana/</guid>
+      <description>&lt;p&gt;V těchto měsících dokončuju magisterské studium ve specializaci neurobiologie na Přírodovědecké fakultě Univerzity Karlovy v Praze. V Národním ústavu duševního zdraví jsem stážistkou ve výzkumném programu Aplikované neurovědy a zobrazení mozku. V experimentální skupině Neurokognice a virtuální realita spolupracuju ve výzkumných projektech a ve spojení s funkční magnetickou rezonancí se zabývám především neurobiologickými korelátmi deklarativní paměti. Zajímá mě autobiografická a epizodická paměť a její vývoj u dětí i dospělých.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://brainvr.cz/member/hejtmy/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
@@ -61,6 +75,16 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
 &lt;p&gt;V týmu nyní funguji jako neplacená technická podopora, programátor včeho od webů po fMRI synchronizace a ten &amp;ldquo;týpek&amp;rdquo;, co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného.&lt;/p&gt;
 
 &lt;p&gt;Krom programování v Národním ústavu duševního zdraví pracuji na svém PhD v Akademii věd a po večerech vyučuji psychologii na střední škole.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/iveta/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/iveta/</guid>
+      <description>&lt;p&gt;Vedoucí skupiny Virtuální reality v neurokognitivních vědách vystudovala psychologii a neurobiologii. V NUDZ se věnuje zejména vývoji aplikací ve virtuální realitě a jejich využití při vyšetřování a tréninku kognitivních funkcí, ale také při zobrazování mozkové aktivity během jejich řešení. Kromě NUDZ působí také na 3. lékařské fakultě UK a ve Fyziologickém ústavu AV ČR.&lt;/p&gt;
 </description>
     </item>
     

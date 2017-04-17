@@ -11,22 +11,32 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
-      <link>http://brainvr.cz/member/ivana/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/member/ivana/</guid>
-      <description>&lt;p&gt;V těchto měsících dokončuju magisterské studium ve specializaci neurobiologie na Přírodovědecké fakultě Univerzity Karlovy v Praze. V Národním ústavu duševního zdraví jsem stážistkou ve výzkumném programu Aplikované neurovědy a zobrazení mozku. V experimentální skupině Neurokognice a virtuální realita spolupracuju ve výzkumných projektech a ve spojení s funkční magnetickou rezonancí se zabývám především neurobiologickými korelátmi deklarativní paměti. Zajímá mě autobiografická a epizodická paměť a její vývoj u dětí i dospělých.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
       <link>http://brainvr.cz/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/anna/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/anna/</guid>
+      <description>&lt;p&gt;Se skupinou VP3 jsem začala spolupracovat v únoru 2016. Náplní mé práce je od té doby především
+psychologické testování dobrovolníků i pacientů, základní analýza dat a zpracovávání zpráv z vyšetření.
+Získaná data momentálně využívám i pro svou diplomovou práci, v které se zabývám kognitivními
+strategiemi u pacientů s obsedantně-kompulzivní poruchou.&lt;/p&gt;
+
+&lt;p&gt;V září 2017 plánuji dokončit magisterské studium psychologie a ráda bych poté pokračovala v práci ve výzkumu.
+Zajímá mě kognitivní věda a využití moderních technologií ve výzkumu, v budoucnu bych se ráda alespoň částečně
+věnovala i pracovní psychologii nebo lektorování dospělých. Momentálně se také snažím proniknout do tajů programování.&lt;/p&gt;
+
+&lt;p&gt;Ale aby to nevypadalo, že pořád jen pracuji :) - zbožňuji literaturu, kulturu, architekturu a cestování.
+Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
 </description>
     </item>
     
@@ -59,32 +69,36 @@
     </item>
     
     <item>
+      <title></title>
+      <link>http://brainvr.cz/member/adela/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/adela/</guid>
+      <description>&lt;p&gt;Do skupiny jsem se zapojila v srpnu roku 2016. Mým hlavním zájmem bylo vytvoření ekologicky validní úlohy ve virtuální realitě určené k tréninku kognitivního deficitu u pacientů se schizofrenií. Za pomoci Václava Sahuly a dalších členů týmu byla vytvořena simulace nákupu ve virtuálním supermarketu. Následovaly dvě pilotní studie, ve kterých jsem úlohu testovala u zdravých dobrovolníků v její diagnostické obdobě.&lt;/p&gt;
+
+&lt;p&gt;V současné chvíli testuji úlohu u pacientů se schizofrenií, a to jak v její diagnostické, tak remediační variantě. Data budu dále porovnávat s výsledky srovnávací skupiny zdravých dobrovolníků.&lt;/p&gt;
+
+&lt;p&gt;Nyní je mým největším zájmem získat data od co nejvyššího počtu pacientů a následnou analýzou završit svou diplomovou práci. V Národním ústavu duševního zdraví bych se ráda dále věnovala kognici a virtuální realitě v rámci PhD studia. Kromě virtuální reality se věnuji psychometrii a tvorbě osobnostních dotazníků a výkonových testů.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/ivana/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/ivana/</guid>
+      <description>&lt;p&gt;V těchto měsících dokončuju magisterské studium ve specializaci neurobiologie na Přírodovědecké fakultě Univerzity Karlovy v Praze. V Národním ústavu duševního zdraví jsem stážistkou ve výzkumném programu Aplikované neurovědy a zobrazení mozku. V experimentální skupině Neurokognice a virtuální realita spolupracuju ve výzkumných projektech a ve spojení s funkční magnetickou rezonancí se zabývám především neurobiologickými korelátmi deklarativní paměti. Zajímá mě autobiografická a epizodická paměť a její vývoj u dětí i dospělých.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
       <link>http://brainvr.cz/publication/2017/_person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://brainvr.cz/publication/2017/_person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://brainvr.cz/member/anna/</link>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/member/anna/</guid>
-      <description>&lt;p&gt;Se skupinou VP3 jsem začala spolupracovat v únoru 2016. Náplní mé práce je od té doby především
-psychologické testování dobrovolníků i pacientů, základní analýza dat a zpracovávání zpráv z vyšetření.
-Získaná data momentálně využívám i pro svou diplomovou práci, v které se zabývám kognitivními
-strategiemi u pacientů s obsedantně-kompulzivní poruchou.&lt;/p&gt;
-
-&lt;p&gt;V září 2017 plánuji dokončit magisterské studium psychologie a ráda bych poté pokračovala v práci ve výzkumu.
-Zajímá mě kognitivní věda a využití moderních technologií ve výzkumu, v budoucnu bych se ráda alespoň částečně
-věnovala i pracovní psychologii nebo lektorování dospělých. Momentálně se také snažím proniknout do tajů programování.&lt;/p&gt;
-
-&lt;p&gt;Ale aby to nevypadalo, že pořád jen pracuji :) - zbožňuji literaturu, kulturu, architekturu a cestování.
-Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
 </description>
     </item>
     
@@ -99,6 +113,16 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
 &lt;p&gt;V týmu nyní funguji jako neplacená technická podopora, programátor včeho od webů po fMRI synchronizace a ten &amp;ldquo;týpek&amp;rdquo;, co kdesi v místnosti bez oken dlouhodobě kouká do monitoru počítače ve snaze udělat ze změti behaviorálních dat něco trochu smysluplného.&lt;/p&gt;
 
 &lt;p&gt;Krom programování v Národním ústavu duševního zdraví pracuji na svém PhD v Akademii věd a po večerech vyučuji psychologii na střední škole.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/iveta/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/iveta/</guid>
+      <description>&lt;p&gt;Vedoucí skupiny Virtuální reality v neurokognitivních vědách vystudovala psychologii a neurobiologii. V NUDZ se věnuje zejména vývoji aplikací ve virtuální realitě a jejich využití při vyšetřování a tréninku kognitivních funkcí, ale také při zobrazování mozkové aktivity během jejich řešení. Kromě NUDZ působí také na 3. lékařské fakultě UK a ve Fyziologickém ústavu AV ČR.&lt;/p&gt;
 </description>
     </item>
     
