@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Episodic-like memory tested in virtual environment</title>
+      <link>http://brainvr.cz/publication/2017/emt-1/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/publication/2017/emt-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>http://brainvr.cz/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -37,6 +46,16 @@ věnovala i pracovní psychologii nebo lektorování dospělých. Momentálně s
 
 &lt;p&gt;Ale aby to nevypadalo, že pořád jen pracuji :) - zbožňuji literaturu, kulturu, architekturu a cestování.
 Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://brainvr.cz/member/jirka/</link>
+      <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://brainvr.cz/member/jirka/</guid>
+      <description>&lt;p&gt;Jiří Motýl vystudoval psychologii na Fakultě sociálních studií Masarykovy Univerzity, kde se odborně věnoval percepci online rizik a soukromí. V současnosti se zabývá výzkumem kognitivních funkcí. Je stážistou ve výzkumné skupině virtuální reality v Národním ústavu duševního zdraví.&lt;/p&gt;
 </description>
     </item>
     
@@ -93,16 +112,6 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
     </item>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>http://brainvr.cz/publication/2017/_person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/publication/2017/_person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://brainvr.cz/member/hejtmy/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
@@ -123,16 +132,6 @@ Ráda se podívám na dobrý film nebo si zahraju únikovou hru.&lt;/p&gt;
       
       <guid>http://brainvr.cz/member/iveta/</guid>
       <description>&lt;p&gt;Vedoucí skupiny Virtuální reality v neurokognitivních vědách vystudovala psychologii a neurobiologii. V NUDZ se věnuje zejména vývoji aplikací ve virtuální realitě a jejich využití při vyšetřování a tréninku kognitivních funkcí, ale také při zobrazování mozkové aktivity během jejich řešení. Kromě NUDZ působí také na 3. lékařské fakultě UK a ve Fyziologickém ústavu AV ČR.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Episodic-like memory tested in virtual environment</title>
-      <link>http://brainvr.cz/publication/2017/emt-1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://brainvr.cz/publication/2017/emt-1/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
