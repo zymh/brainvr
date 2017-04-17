@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2017-04-17"
+date = "2016-04-01"
 
 # Project title.
 fullName = "Ivana Oravcová"
