@@ -22,7 +22,7 @@ view = 1
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "Vše"
+  name = "All"
   tag = "*"
   
 [[filter]]
@@ -30,11 +30,11 @@ view = 1
   tag = ".VR"
 
 [[filter]]
-  name = "Kognice"
+  name = "Cognition"
   tag = ".cognition"
 
 [[filter]]
-  name = "Stáří"
+  name = "Aging"
   tag = ".aging"
 
 [[filter]]
