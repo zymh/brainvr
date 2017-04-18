@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2016-05-10"
+date = "2016-07-10"
 
 # Project title.
 fullName = "Jiří Motýl"
 
 # Project summary to display on homepage.
-summary = "psycholog"
+summary = "Psycholog"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "members/thumbs/jirka.jpg"
@@ -15,14 +15,55 @@ image_preview = "members/thumbs/jirka.jpg"
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = [""]
 
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
 # Does the project detail page use math formatting?
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "members/banners/default.jpg"
-caption = ""
+image = "members/banners/jirka.jpg"
+caption = "My lazy morning"
+
+[[education]]
+    degree = "Výměnný pobyt"
+    institution = "SWPS University of Social Sciences and Humanities, PL"
+    year = 2011
+    
+[[education]]
+    degree = "Psychologie, Bc."
+    institution = "Fakulta sociálních studií Masarykovy univerzity, ČR"
+    year = "2009-2013"
+    
+[[education]]
+    degree = "Psychologie, Mgr."
+    institution = "Fakulta sociálních studií Masarykovy univerzity, ČR"
+    year = "2014-2016"
+
+[interests]
+  interests = [
+      "Kognice",
+      "Multiple Sclerosis",
+      "Schizofrenie",
+      "Udržitelná doprava",
+      "Hory a autostop"
+  ]
+
+[[social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:jiri.motyl@gmail.com"
+
+[[social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/jmotyl/"
 
 +++
 
-Jiří Motýl vystudoval psychologii na Fakultě sociálních studií Masarykovy Univerzity, kde se odborně věnoval percepci online rizik a soukromí. V současnosti se zabývá výzkumem kognitivních funkcí. Je stážistou ve výzkumné skupině virtuální reality v Národním ústavu duševního zdraví.
+Do skupiny jsem se dostal jako stážista při studiu psychologie v létě 2015. Začal jsem se podílet na administraci a vyhodnocování neuropsychologických testových baterií při výzkumu OCD a schizofrenie.
+
+Spolupráce v týmu VR se mi zalíbila a na stáži jsem tak setrval i po dokončení studia psychologie. Mé hlavní výzkumné aktivity leží mimo NÚDZ a jsou spojeny s výzkumem léčby roztroušené sklérozy. Mám ale poměrně flexibilní harmonogram a v NÚDZu tak ve skupině VR nadále pomáhám s jakoukoliv psychologickou i nepsychologickou činností, kterou zrovna ostatní nestíhají zařídit nebo dokončit. Je třeba někoho vyšetřit a všichni ostatní mají zrovna plný diář? Pak to budu pravděpodobně já, koho na vyšetření potkáte.
+
+Kromě neuropsychologického testování v Národním ústavu duševního zdraví a výzkumu roztroušené sklerózy mě občas můžete někde potkat hovořit o kolech a udržitelné dopravě. Jsem šéfredaktorem webu Prahounakole.cz, vášnivý cyklista sice nejsem, ale na kratší vzdálenosti se po Praze na kole dopravuji, tedy pokud mám chuť nebo je to časově výhodné. Rád cestuji a jezdím s batohem na zádech do hor.
