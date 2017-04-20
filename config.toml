@@ -22,12 +22,12 @@ defaultContentLanguageInSubdir = false
   name = "Neurokognice a virtuální realita"
   #role = "Oddělení VP3"
   organization = "Národní ústav duševního zdraví"
-  organization_url = ""
+  organization_url = "www.nudz.cz"
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Topolová, Klecany"
+  email = "Iveta.Fajnerova@nudz.cz"
+  address = "Topolová 748, Klecany"
   office_hours = ""
-  phone = "888 888 88 88"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -123,16 +123,6 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/nudz"
@@ -149,14 +139,9 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publikace"
-  url = "#publications_selected"
-  weight = 4
-
-[[menu.main]]
-  name = "Články"
-  url = "#posts"
-  weight = 6
+name = "Tým"
+url = "#members"
+weight = 3
 
 [[menu.main]]
   name = "Projekty"
@@ -164,14 +149,19 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Výuka"
-  url = "#teaching"
+  name = "Publikace"
+  url = "#publications_selected"
+  weight = 4
+
+[[menu.main]]
+  name = "Příspěvky"
+  url = "#posts"
   weight = 5
 
 [[menu.main]]
-name = "Tým"
-url = "#members"
-weight = 3
+  name = "Výuka"
+  url = "#teaching"
+  weight = 6
 
 [[menu.main]]
   name = "Kontakt"
