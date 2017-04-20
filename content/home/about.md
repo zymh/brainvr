@@ -9,20 +9,6 @@ widget = "about"
 # Order that this section will appear in.
 weight = 1
 
-# List your academic interests.
-[rename-to-interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[rename-education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
- 
 +++
 
 # O nás
@@ -33,9 +19,7 @@ S ohledem na interdisciplinární témata výzkumu je náš tým složen z psych
 
 Zaobíráme se mimo jiného následujícími tématy:
 
-- Prostorová navigace a paměť ve stabilním virtuálním prostředí virtuálního města
+- Prostorová navigace a paměť v prostředí virtuálního města
 - Prostorová paměť a kognitivní koordinace v dynamickém prostředí rotující arény (kolotoče)
-- Deklarativní paměť epizodického typu (paměť pro události)
-- Deklarativní paměť sémantického typu (paměť pro fakta)
+- Deklarativní paměť epizodického (události) a sémantického typu (fakta)
 - Efekt chronotypu na výkon v kognitivních testech
-- … a další
