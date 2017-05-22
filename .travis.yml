@@ -26,6 +26,6 @@ script:
   - hugo
 
 after_success:
-  - cp .travis.yml public # all branches need this file
-  - echo "brainvr.cz" > public/CNAME
-  - bash deploy.sh # run the deploy script
+  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then cp .travis.yml public; fi' # all branches need this file
+  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "brainvr.cz" > public/CNAME; fi'
+  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash deploy.sh; fi'  # run the deploy script
