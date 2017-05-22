@@ -31,7 +31,7 @@ tags = ["programmer"]
 # please keep the size under 200 kB
 [header]
 image = "image_name.jpg"
-caption = Whatever you wna tot describe the image you sent me"
+caption = "Whatever you wna tot describe the image you sent me"
 
 ## List of educations - just EXACTLY KEEP THE FORMAT
 # If you wnat to have more or less, just copy paste the each block
