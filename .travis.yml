@@ -28,4 +28,4 @@ script:
 after_success:
   - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then cp .travis.yml public; fi' # all branches need this file
   - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "brainvr.cz" > public/CNAME; fi'
-  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; bash deploy.sh; fi'  # run the deploy script
+  - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then bash deploy.sh; fi'  # run the deploy script
