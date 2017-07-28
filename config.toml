@@ -1,5 +1,5 @@
 baseurl = "http://brainvr.cz"
-title = "Neurokognice a virtuální realita"
+title = "Virtuální realita v neurovědách"
 copyright = "&copy; 2016 Lukáš hejtmy Hejtmánek"
 theme = "academic"
 enableEmoji = true
@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Neurokognice a virtuální realita"
+  name = "Virtuální realita v neurovědách"
   #role = "Oddělení VP3"
   organization = "Národní ústav duševního zdraví"
   organization_url = "www.nudz.cz"
