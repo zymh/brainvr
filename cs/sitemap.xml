@@ -187,15 +187,6 @@
     
     
     <url>
-      <loc>http://brainvr.cz/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
       <loc>http://brainvr.cz/tags/programmer/</loc>
       <lastmod>2016-05-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -234,6 +225,15 @@
     <url>
       <loc>http://brainvr.cz/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>http://brainvr.cz/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
