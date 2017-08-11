@@ -53,7 +53,7 @@ caption = "My lazy morning"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jiri.motyl@gmail.com"
+    link = "mailto:jiri.motyl@nudz.cz"
 
 [[social]]
     icon = "linkedin"
@@ -64,6 +64,4 @@ caption = "My lazy morning"
 
 Do skupiny jsem se dostal jako stážista při studiu psychologie v létě 2015. Začal jsem se podílet na administraci a vyhodnocování neuropsychologických testových baterií při výzkumu OCD a schizofrenie.
 
-Spolupráce v týmu VR se mi zalíbila a na stáži jsem tak setrval i po dokončení studia psychologie. Mé hlavní výzkumné aktivity leží mimo NÚDZ a jsou spojeny s výzkumem léčby roztroušené sklérozy. Mám ale poměrně flexibilní harmonogram a v NÚDZu tak ve skupině VR nadále pomáhám s jakoukoliv psychologickou i nepsychologickou činností, kterou zrovna ostatní nestíhají zařídit nebo dokončit. Je třeba někoho vyšetřit a všichni ostatní mají zrovna plný diář? Pak to budu pravděpodobně já, koho na vyšetření potkáte.
-
-Kromě neuropsychologického testování v Národním ústavu duševního zdraví a výzkumu roztroušené sklerózy mě občas můžete někde potkat hovořit o kolech a udržitelné dopravě. Jsem šéfredaktorem webu Prahounakole.cz, vášnivý cyklista sice nejsem, ale na kratší vzdálenosti se po Praze na kole dopravuji, tedy pokud mám chuť nebo je to časově výhodné. Rád cestuji a jezdím s batohem na zádech do hor.
+Spolupráce v týmu VR se mi zalíbila a na stáži jsem tak setrval i po dokončení studia psychologie. Mé hlavní výzkumné aktivity leží mimo NÚDZ a jsou spojeny s výzkumem léčby roztroušené sklérozy na 1. lékařské fakultě UK, kde studuji obor neurovědy. Mám flexibilní harmonogram a v NÚDZu tak ve skupině VR nadále pomáhám s jakoukoliv psychologickou i nepsychologickou činností, kterou zrovna ostatní nestíhají zařídit nebo dokončit. Je třeba někoho vyšetřit a všichni ostatní mají zrovna plný diář? Pak to budu pravděpodobně já, koho na vyšetření potkáte.
